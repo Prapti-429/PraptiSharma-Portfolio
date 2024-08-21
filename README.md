@@ -24,7 +24,7 @@ A motivated and ambitious 11th-grade student with a passion for technology and p
 
 ## 🛠️ **Skills**
 
-![Skills](https://img.icons8.com/ios/50/skills.png)  
+![Skills]
 - **Active Participation:** School-level and inter-school competitions 🏆
 - **Presentation Skills:** Confident stage presence 🎤
 - **Public Speaking:** Persuasive abilities 🗣️
@@ -102,7 +102,7 @@ A motivated and ambitious 11th-grade student with a passion for technology and p
 
 ## 🤝 **Volunteering**
 
-![Volunteering](https://img.icons8.com/ios/50/volunteer.png)  
+![Volunteering]
 
 - **Climate Science Community**: State Community Coordinator 🌿
 - **YOUNGO**: Member 🌍
